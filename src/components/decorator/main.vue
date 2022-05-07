@@ -5,6 +5,7 @@
     :dur="dur"
     :scan-dur="scanDur"
     :halo-dur="haloDur"
+    :color="color"
   >
     <slot></slot>
   </component>
